@@ -58,7 +58,7 @@ The product of all positive integers less than or equal to $n$.
 **Example:**
 $5! = 5 \times 4 \times 3 \times 2 \times 1 = 120$
 
-### Primorial ($n$)#
+### Primorial ($n#$)
 
 The product of all prime numbers less than or equal to $n$.
 **Example:**
